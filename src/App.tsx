@@ -116,7 +116,7 @@ const ButtonCardUp = styled(ButtonCard)`
 
 const SuperButton = styled(StyledBtn)`
   background-color: #9e9e75;
-  color: #3d3d3d;
+  color: #3a3838;
 `;
 
 const Box = styled.div`
